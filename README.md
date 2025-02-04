@@ -47,6 +47,6 @@ This game is for **personal use and distribution only**. Redistribution or modif
 
 ---
 For any inquiries, contact [sohamreminders@gmail.com].
-![Alt Text](Screenshot_2025-02-04_151205_enhanced.png)
+![Alt Text](koko.png)
 
 
