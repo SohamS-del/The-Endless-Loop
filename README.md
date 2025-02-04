@@ -37,10 +37,10 @@
 - **Scene Transition:** Once the story text completes, the game transitions to the first playable level.
 
 ## **Credits**
-- **Game Design & Development:** [Soham S]
-- **Story & Concept:** [Soham S]
-- **Music & Sound:** [Zarma - Pride]
-- **Art & Assets:** [Soham S]
+- **Game Design & Development:** Soham S
+- **Story & Concept:** Soham S
+- **Music & Sound:** Zarma - Pride
+- **Art & Assets:** Soham S
 
 ## **License**
 This game is for **personal use and distribution only**. Redistribution or modification without permission is prohibited.
