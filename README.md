@@ -15,13 +15,13 @@
 - 🏆 **Challenging Gameplay:** Overcome obstacles and puzzles to obtain the magic kiwi.
 
 ## **System Requirements**
-- Windows 10/11 or macOS
+- Windows 10/11 
 - Minimum 4GB RAM
 - 120MB Free Disk Space
 
 ## **How to Play**
 1. **Download the Game**
-   - Obtain the game `.exe` (Windows) or `.app` (Mac) file from the provided source.
+   - Obtain the game `.exe` (Windows) from the provided source.
 2. **Run the Game**
    - No installation required. Simply double-click the file to start playing.
 
