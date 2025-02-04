@@ -25,7 +25,7 @@
 2. **Run the Game**
    - No installation required. Simply double-click the file to start playing.
 
-## **Game Controls**
+## **Game Controls**                                                        ![Alt Text](koko.png)
 | Action | Key |
 |--------|----|
 | Move Left | `A / Left Arrow` |
@@ -47,6 +47,6 @@ This game is for **personal use and distribution only**. Redistribution or modif
 
 ---
 For any inquiries, contact [sohamreminders@gmail.com].
-![Alt Text](koko.png)
+
 
 
