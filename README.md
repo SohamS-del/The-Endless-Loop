@@ -8,7 +8,7 @@
 
 ## **Game Features**
 - 🎮 **Engaging Narrative:** A gripping story of perseverance and struggle.
-- 🐸 **Unique Protagonist:** Play as [New Frog Name], a frog caught in an endless cycle.
+- 🐸 **Unique Protagonist:** Play as Koko, a frog caught in an endless cycle.
 - 🔄 **Loop Mechanic:** Every time you fail, time resets, forcing you to learn and adapt.
 - 🌍 **Beautiful 2D World:** Handcrafted levels with atmospheric environments.
 - 🎼 **Emotional Soundtrack:** A melancholic score to enhance the storytelling.
