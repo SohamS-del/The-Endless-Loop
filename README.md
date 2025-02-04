@@ -1,5 +1,5 @@
 
- # **Game Title: The Endless Loop**
+ # **The Endless Loop**
 
 ## **Overview**
 "The Endless Loop" is a 2D adventure platformer following the journey of Koko, a frog trapped in an endless loop. Every time he fails, he wakes up to the same moment, forced to start over. His only hope is the **magic kiwi**, which unlocks the **pink portal** leading back to his home. Can he break free from the cycle and escape his fate?
